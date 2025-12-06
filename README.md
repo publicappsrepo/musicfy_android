@@ -1,7 +1,7 @@
 # musicfy_android
 Musicfy - GPL v3 Licensed
 
-# Status Saver for WhatsApp
+# Musicfy
 
 Save and view WhatsApp statuses on your Android device.
 
