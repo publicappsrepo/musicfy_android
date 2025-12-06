@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.play_pause.musicplayer.feature.settings-release-84:/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "com.play_pause.musicplayer.feature.settings-material-1.12.0-31:/color-night-v8/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.feature.settings-release-84:/color-night-v8/material_timepicker_clockface.xml",
+        "source": "com.play_pause.musicplayer.feature.settings-material-1.12.0-31:/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.feature.settings-release-84:/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "com.play_pause.musicplayer.feature.settings-material-1.12.0-31:/color-night-v8/material_timepicker_modebutton_tint.xml"
+    }
+]

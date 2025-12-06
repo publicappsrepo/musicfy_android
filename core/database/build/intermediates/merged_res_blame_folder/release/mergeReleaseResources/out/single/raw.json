@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.play_pause.musicplayer.core.database-release-24:/raw/aboutlibraries.json",
+        "source": "com.play_pause.musicplayer.core.database-release-20:/raw/aboutlibraries.json"
+    }
+]

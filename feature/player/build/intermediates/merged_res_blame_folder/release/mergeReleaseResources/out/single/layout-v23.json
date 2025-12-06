@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.play_pause.musicplayer.feature.player-release-86:/layout-v23/exo_player_control_rewind_button.xml",
+        "source": "com.play_pause.musicplayer.feature.player-media3-ui-1.5.1-19:/layout-v23/exo_player_control_rewind_button.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.feature.player-release-86:/layout-v23/exo_player_control_ffwd_button.xml",
+        "source": "com.play_pause.musicplayer.feature.player-media3-ui-1.5.1-19:/layout-v23/exo_player_control_ffwd_button.xml"
+    }
+]

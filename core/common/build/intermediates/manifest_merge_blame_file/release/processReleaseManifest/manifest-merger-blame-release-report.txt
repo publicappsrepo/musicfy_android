@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.play_pause.musicplayer.core.common" >
+4
+5    <uses-sdk android:minSdkVersion="26" />
+6
+7    <queries>
+7-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:4:5-10:15
+8        <intent>
+8-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:5:9-9:18
+9            <action android:name="android.intent.action.OPEN_DOCUMENT" />
+9-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:6:13-74
+9-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:6:21-71
+10
+11            <data android:mimeType="*/*" />
+11-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:8:13-44
+11-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:8:19-41
+12        </intent>
+13    </queries>
+14
+15</manifest>

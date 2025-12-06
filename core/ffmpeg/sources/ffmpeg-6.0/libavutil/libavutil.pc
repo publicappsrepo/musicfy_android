@@ -1,0 +1,14 @@
+prefix=/Users/akshayvadchhakgmail.com/Downloads/MusicPlayer/core/ffmpeg/build/arm64-v8a
+exec_prefix=${prefix}
+libdir=/Users/akshayvadchhakgmail.com/Downloads/MusicPlayer/core/ffmpeg/build/arm64-v8a/lib
+includedir=/Users/akshayvadchhakgmail.com/Downloads/MusicPlayer/core/ffmpeg/build/arm64-v8a/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 58.2.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil 
+Libs.private: -pthread -lm -latomic
+Cflags: -I${includedir}

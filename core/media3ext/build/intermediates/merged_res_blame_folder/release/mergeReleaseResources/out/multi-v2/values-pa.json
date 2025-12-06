@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.play_pause.musicplayer.core.media3ext-release-8:/values-pa/values-pa.xml",
+            "map": [
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/59b6692c7f9bb845370bf1914a64d477/transformed/media3-exoplayer-1.5.1/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,191,268,334,409,475,574,670",
+                        "endColumns": "70,64,76,65,74,65,98,95,84",
+                        "endOffsets": "121,186,263,329,404,470,569,665,750"
+                    }
+                },
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/06c257263317c5ea00ddbb2038d17463/transformed/core-1.8.0/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "755",
+                        "endColumns": "100",
+                        "endOffsets": "851"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.play_pause.musicplayer.core.media3ext-mergeReleaseResources-6:/values-pa/values-pa.xml",
+            "map": [
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/59b6692c7f9bb845370bf1914a64d477/transformed/media3-exoplayer-1.5.1/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,191,268,334,409,475,574,670",
+                        "endColumns": "70,64,76,65,74,65,98,95,84",
+                        "endOffsets": "121,186,263,329,404,470,569,665,750"
+                    }
+                },
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/06c257263317c5ea00ddbb2038d17463/transformed/core-1.8.0/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "755",
+                        "endColumns": "100",
+                        "endOffsets": "851"
+                    }
+                }
+            ]
+        }
+    ]
+}

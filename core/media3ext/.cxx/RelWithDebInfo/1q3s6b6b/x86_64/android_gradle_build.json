@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/RelWithDebInfo/1q3s6b6b/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/RelWithDebInfo/1q3s6b6b/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "media3ext::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "media3ext",
+      "output": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/RelWithDebInfo/1q3s6b6b/obj/x86_64/libmedia3ext.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,58 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:6:5-92
+	android:name
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:6:22-89
+application
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:8:5-26:19
+	android:usesCleartextTraffic
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:9:9-44
+activity#com.play_pause.musicplayer.feature.player.PlayerActivity
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:10:9-16:49
+	android:launchMode
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:14:13-44
+	android:exported
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:13:13-36
+	android:supportsPictureInPicture
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:15:13-52
+	android:configChanges
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:12:13-133
+	android:theme
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:16:13-46
+	android:name
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:11:13-43
+service#com.play_pause.musicplayer.feature.player.service.PlayerService
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:18:9-25:19
+	android:exported
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:20:13-37
+	android:foregroundServiceType
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:21:13-58
+	android:name
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:19:13-50
+intent-filter#action:name:androidx.media3.session.MediaSessionService
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:22:13-24:29
+action#androidx.media3.session.MediaSessionService
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:23:17-86
+	android:name
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:23:25-83
+uses-sdk
+INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml
+INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml

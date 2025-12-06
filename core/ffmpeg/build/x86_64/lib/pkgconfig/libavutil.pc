@@ -1,0 +1,14 @@
+prefix=/Users/akshayvadchhakgmail.com/Downloads/MusicPlayer/core/ffmpeg/build/x86_64
+exec_prefix=${prefix}
+libdir=/Users/akshayvadchhakgmail.com/Downloads/MusicPlayer/core/ffmpeg/build/x86_64/lib
+includedir=/Users/akshayvadchhakgmail.com/Downloads/MusicPlayer/core/ffmpeg/build/x86_64/include
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 58.2.100
+Requires: 
+Requires.private: 
+Conflicts:
+Libs: -L${libdir}  -lavutil 
+Libs.private: -pthread -lm -latomic
+Cflags: -I${includedir}

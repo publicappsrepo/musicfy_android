@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/.cxx/Debug/426y1i4x/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/.cxx/Debug/426y1i4x/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mediainfo::@6890427a1f51a3e7e1df": {
+      "artifactName": "mediainfo",
+      "abi": "x86",
+      "output": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/cxx/Debug/426y1i4x/obj/x86/libmediainfo.so",
+      "runtimeFiles": []
+    }
+  }
+}

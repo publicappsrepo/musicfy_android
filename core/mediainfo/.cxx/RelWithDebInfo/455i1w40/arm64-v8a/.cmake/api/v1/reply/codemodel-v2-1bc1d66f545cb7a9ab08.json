@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mediainfo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mediainfo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mediainfo-RelWithDebInfo-e81c8c99f3adeaa913ab.json",
+					"name" : "mediainfo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/.cxx/RelWithDebInfo/455i1w40/arm64-v8a",
+		"source" : "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

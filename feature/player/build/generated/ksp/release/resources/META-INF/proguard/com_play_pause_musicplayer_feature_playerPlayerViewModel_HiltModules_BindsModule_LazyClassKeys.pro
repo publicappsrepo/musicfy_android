@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.feature.player.PlayerViewModel

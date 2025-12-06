@@ -1,0 +1,4 @@
+/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/RelWithDebInfo/1q3s6b6b/x86_64" \
+  media3ext

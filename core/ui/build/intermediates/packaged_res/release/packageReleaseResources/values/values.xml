@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="charsets_list" ns1:ignore="TypographyDashes" translatable="false">
+        <item>Auto detect</item>
+        <item>Arabic (ISO-8859-6)</item>
+        <item>Arabic (Cp1256)</item>
+        <item>Baltic (Cp1257)</item>
+        <item>Baltic (ISO-8859-13)</item>
+        <item>Baltic, Scandinavia (ISO-8859-4)</item>
+        <item>Celtic (ISO-8859-14)</item>
+        <item>Central European, Slavic (ISO-8859-2)</item>
+        <item>Chinese, Simplified (MS936)</item>
+        <item>Chinese, Simplified (GB18030)</item>
+        <item>Chinese, Simplified (EUC_CN)</item>
+        <item>Chinese, Simplified (GBK)</item>
+        <item>Chinese, Simplified (ISO-2022-CN)</item>
+        <item>Chinese, Traditional (MS950)</item>
+        <item>Chinese, Traditional (Hong Kong) (MS950_HKSCS)</item>
+        <item>Chinese, Traditional (Big5)</item>
+        <item>Chinese, Traditional (Hong Kong) (Big5-HKSCS)</item>
+        <item>Cyrillic (Cp1251)</item>
+        <item>Cyrillic (ISO-8859-5)</item>
+        <item>Eastern European (Cp1250)</item>
+        <item>Greek (Cp1253)</item>
+        <item>Greek (ISO-8859-7)</item>
+        <item>Hebrew (ISO-8859-8)</item>
+        <item>Hebrew (Cp1255)</item>
+        <item>Indic scripts (ISCII91)</item>
+        <item>Japanese (MS932)</item>
+        <item>Japanese (EUC_JP)</item>
+        <item>Japanese (Shift_JIS)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Korean (MS949)</item>
+        <item>Korean (EUC_KR)</item>
+        <item>Korean (ISO-2022-KR)</item>
+        <item>Nordic (ISO-8859-10)</item>
+        <item>Romanian (ISO-8859-16)</item>
+        <item>Russian (KOI8_R)</item>
+        <item>South European (ISO-8859-3)</item>
+        <item>Thai (TIS-620)</item>
+        <item>Thai (ISO-8859-11)</item>
+        <item>Turkish (Cp1254)</item>
+        <item>Turkish (ISO-8859-9)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Unicode (UTF-16)</item>
+        <item>Unicode (UTF-16BE)</item>
+        <item>Unicode (UTF-16LE)</item>
+        <item>Unicode (UTF-32)</item>
+        <item>Unicode (UTF-32BE)</item>
+        <item>Unicode (UTF-32LE)</item>
+        <item>(US-ASCII)</item>
+        <item>Vietnamese (Cp1258)</item>
+        <item>Western European (ISO-8859-1)</item>
+        <item>Western European (ISO-8859-15)</item>
+        <item>Western European  (ANSI) (Cp1252)</item>
+    </string-array>
+    <color name="md_theme_dark_background">#191C1C</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_inverseOnSurface">#191C1C</color>
+    <color name="md_theme_dark_inversePrimary">#006A68</color>
+    <color name="md_theme_dark_inverseSurface">#E0E3E2</color>
+    <color name="md_theme_dark_onBackground">#E0E3E2</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_onPrimary">#003736</color>
+    <color name="md_theme_dark_onPrimaryContainer">#6FF7F3</color>
+    <color name="md_theme_dark_onSecondary">#1B3534</color>
+    <color name="md_theme_dark_onSecondaryContainer">#CCE8E6</color>
+    <color name="md_theme_dark_onSurface">#C4C7C6</color>
+    <color name="md_theme_dark_onSurfaceVariant">#BEC9C7</color>
+    <color name="md_theme_dark_onTertiary">#1B324B</color>
+    <color name="md_theme_dark_onTertiaryContainer">#D2E4FF</color>
+    <color name="md_theme_dark_outline">#889392</color>
+    <color name="md_theme_dark_outlineVariant">#3F4948</color>
+    <color name="md_theme_dark_primary">#4DDAD6</color>
+    <color name="md_theme_dark_primaryContainer">#00504E</color>
+    <color name="md_theme_dark_scrim">#000000</color>
+    <color name="md_theme_dark_secondary">#B0CCCA</color>
+    <color name="md_theme_dark_secondaryContainer">#324B4A</color>
+    <color name="md_theme_dark_shadow">#000000</color>
+    <color name="md_theme_dark_surface">#191C1C</color>
+    <color name="md_theme_dark_surfaceTint">#4DDAD6</color>
+    <color name="md_theme_dark_surfaceVariant">#3F4948</color>
+    <color name="md_theme_dark_tertiary">#B1C8E8</color>
+    <color name="md_theme_dark_tertiaryContainer">#324863</color>
+    <color name="md_theme_light_background">#FAFDFC</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_inverseOnSurface">#EFF1F0</color>
+    <color name="md_theme_light_inversePrimary">#4DDAD6</color>
+    <color name="md_theme_light_inverseSurface">#2D3131</color>
+    <color name="md_theme_light_onBackground">#191C1C</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_onPrimaryContainer">#00201F</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_onSecondaryContainer">#051F1F</color>
+    <color name="md_theme_light_onSurface">#191C1C</color>
+    <color name="md_theme_light_onSurfaceVariant">#3F4948</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_onTertiaryContainer">#021D35</color>
+    <color name="md_theme_light_outline">#6F7978</color>
+    <color name="md_theme_light_outlineVariant">#BEC9C7</color>
+    <color name="md_theme_light_primary">#006A68</color>
+    <color name="md_theme_light_primaryContainer">#6FF7F3</color>
+    <color name="md_theme_light_scrim">#000000</color>
+    <color name="md_theme_light_secondary">#4A6362</color>
+    <color name="md_theme_light_secondaryContainer">#CCE8E6</color>
+    <color name="md_theme_light_shadow">#000000</color>
+    <color name="md_theme_light_surface">#FAFDFC</color>
+    <color name="md_theme_light_surfaceTint">#006A68</color>
+    <color name="md_theme_light_surfaceVariant">#DAE5E3</color>
+    <color name="md_theme_light_tertiary">#4A607B</color>
+    <color name="md_theme_light_tertiaryContainer">#D2E4FF</color>
+    <color name="player_background">#4D000000</color>
+    <color name="seed">#2B4241</color>
+    <color name="transparent_white_300">#4DFFFFFF</color>
+    <dimen name="dimen_controls_horizontal">8dp</dimen>
+    <dimen name="dimen_controls_vertical">2dp</dimen>
+    <string name="a_z">A-Z</string>
+    <string name="about_description">Version, support, credits</string>
+    <string name="about_name">About</string>
+    <string name="app_developer" translatable="false">anilbeesetti</string>
+    <string name="app_name" translatable="false">Next Player</string>
+    <string name="appearance_description">Adjust the app to your liking</string>
+    <string name="appearance_name">Appearance</string>
+    <string name="ascending">Ascending</string>
+    <string name="audio">Audio</string>
+    <string name="audio_desc">Audio playback options</string>
+    <string name="audio_track">Audio Track</string>
+    <string name="auto">Auto</string>
+    <string name="automatic">Automatic (sensor)</string>
+    <string name="autoplay_settings">Autoplay</string>
+    <string name="autoplay_settings_description">Automatically play the next video in the current folder</string>
+    <string name="background_play">Background play</string>
+    <string name="background_play_description">Play in background when tapped on home or screen is locked.</string>
+    <string name="best_fit">Best fit</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="by">by %1$s</string>
+    <string name="cancel">Cancel</string>
+    <string name="channels">Channels</string>
+    <string name="codec">Codec</string>
+    <string name="control_buttons_alignment">Control buttons alignment</string>
+    <string name="control_buttons_alignment_left">Left</string>
+    <string name="control_buttons_alignment_right">Right</string>
+    <string name="controller_timeout">Controller timeout</string>
+    <string name="controls_lock">Lock controls</string>
+    <string name="controls_unlock">Unlock controls</string>
+    <string name="crop">Crop</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="date">Date</string>
+    <string name="decoder">Decoder</string>
+    <string name="decoder_desc">Decoder priority, playback decoder options</string>
+    <string name="decoder_priority">Decoder priority</string>
+    <string name="default_name">Default</string>
+    <string name="default_playback_speed">Default playback speed</string>
+    <string name="delete">Delete</string>
+    <string name="delete_file">The following file will be deleted permanently</string>
+    <string name="delete_folder">All video files in the following folder will be deleted permanently.</string>
+    <string name="descending">Descending</string>
+    <string name="device_decoders_only">Device decoders only</string>
+    <string name="disable">Disable</string>
+    <string name="donate">Donate</string>
+    <string name="done">Done</string>
+    <string name="double_tap">Double tap gesture</string>
+    <string name="double_tap_description">Select double tap gesture action</string>
+    <string name="duration">Duration</string>
+    <string name="dynamic_theme">Dynamic color theme</string>
+    <string name="dynamic_theme_description">Apply colors from system wallpaper to the application theme</string>
+    <string name="embedded_styles">Embedded styles</string>
+    <string name="embedded_styles_desc">Apply the embedded styles that are present in subtitle files, such as ASS and so on</string>
+    <string name="enable">Enable</string>
+    <string name="enable_pip_from_settings">Picture-in-Picture is disabled. Enable it in Settings to use this feature.</string>
+    <string name="enter_a_network_url">Enter a network URL:</string>
+    <string name="error_opening_link">No app found to handle this link</string>
+    <string name="error_playing_video">Error: Can\'t play video</string>
+    <string name="example_url" translatable="false">http://example.com/example.mp4</string>
+    <string name="exit">Exit</string>
+    <string name="extension">Extension</string>
+    <string name="fast_playback_speed">%.1fx speed</string>
+    <string name="fast_seek">Fast seeking</string>
+    <string name="fast_seek_description">Seek to nearest key frame instead of exact one.</string>
+    <string name="ff_rewind">Fast forward/Rewind</string>
+    <string name="fields">Fields</string>
+    <string name="file">File</string>
+    <string name="floating_play_button">Floating play button</string>
+    <string name="floating_play_button_desc">Show floating button to play last played media.</string>
+    <string name="folder">Folder</string>
+    <string name="folders">Folders</string>
+    <string name="force_rescan_storage">Force rescan storage</string>
+    <string name="force_rescan_storage_desc">Caution: Initiating a full storage rescan may cause increased resource usage on your device</string>
+    <string name="format">Format</string>
+    <string name="frame_rate">Frame rate</string>
+    <string name="github">Github</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="grid">Grid</string>
+    <string name="group_videos">Group videos by folder</string>
+    <string name="high_contrast_dark_theme">High contrast dark theme</string>
+    <string name="high_contrast_dark_theme_desc">Use pure black background for dark theme</string>
+    <string name="hundred_percent">100%</string>
+    <string name="interface_name">Interface</string>
+    <string name="kofi">Ko-fi</string>
+    <string name="landscape">Landscape</string>
+    <string name="landscape_auto">Landscape (sensor)</string>
+    <string name="landscape_reverse">Landscape reverse</string>
+    <string name="language">Language</string>
+    <string name="largest">Largest</string>
+    <string name="libraries">Libraries</string>
+    <string name="list">List</string>
+    <string name="location">Location</string>
+    <string name="long_press_gesture">Long press gesture</string>
+    <string name="long_press_gesture_desc">Long press to play at %.1fx speed</string>
+    <string name="longest">Longest</string>
+    <string name="loop_mode">Loop mode</string>
+    <string name="loop_mode_all">Loop: All</string>
+    <string name="loop_mode_off">Loop: Off</string>
+    <string name="loop_mode_one">Loop: One</string>
+    <string name="manage_folders">Manage folders</string>
+    <string name="manage_folders_desc">Select folders to be excluded in the media library</string>
+    <string name="mark_last_played_media">Mark last played media</string>
+    <string name="mark_last_played_media_desc">Mark last played media in home and in each folder</string>
+    <string name="media_layout">Media Layout</string>
+    <string name="media_library">Media library</string>
+    <string name="media_library_description">Scan and manage media library</string>
+    <string name="media_view_mode">Media view mode</string>
+    <string name="menu">Menu</string>
+    <string name="monospace">Monospace</string>
+    <string name="navigate_up">Navigate up</string>
+    <string name="network_stream">Network Stream</string>
+    <string name="newest">Newest</string>
+    <string name="no">No</string>
+    <string name="no_audio_tracks_found">Audio tracks for this video are either unavailable or not supported.</string>
+    <string name="no_subtitle_tracks_found">Subtitle tracks for this video are either unavailable or not supported.</string>
+    <string name="no_videos_found">No videos found</string>
+    <string name="none">None</string>
+    <string name="off">Off</string>
+    <string name="okay">Okay</string>
+    <string name="oldest">Oldest</string>
+    <string name="on">On</string>
+    <string name="open_local_video">Open local video</string>
+    <string name="open_network_stream">Open network stream</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="open_subtitle">Open local subtitle</string>
+    <string name="path">Path</string>
+    <string name="pause_on_headset_disconnect">Pause on disconnect</string>
+    <string name="pause_on_headset_disconnect_desc">Pause playback when headset disconnected from the device</string>
+    <string name="paypal">PayPal</string>
+    <string name="permission_info">The Next Player app needs \"%1$s\" permission to access and play media. Without it, media access and playback won\'t work. To use the app fully, grant the permission.</string>
+    <string name="permission_not_granted">Permission Not Granted</string>
+    <string name="permission_request">Permission Request</string>
+    <string name="permission_settings">The Next Player app needs \"%1$s\" permission to access and play media. Without it, media access and playback won\'t work. To use the app fully, grant the permission from settings since it was permanently denied.</string>
+    <string name="pip_settings">Picture in Picture Mode</string>
+    <string name="pip_settings_description">Automatically switch to miniature player when tapping Home Button</string>
+    <string name="play_file">Open video file to play</string>
+    <string name="play_next_video">Play next video</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="play_pause_ff_rewind">Play/Pause and Fast forward/Rewind</string>
+    <string name="play_url">Enter video url to play</string>
+    <string name="playback">Playback</string>
+    <string name="played_progress">Played progress</string>
+    <string name="player_controls_exit">Navigate up</string>
+    <string name="player_controls_next">Player next</string>
+    <string name="player_controls_play_pause">Player play pause</string>
+    <string name="player_controls_previous">Player previous</string>
+    <string name="player_controls_progress">Player progress bar</string>
+    <string name="player_description">Player appearance, playback controls</string>
+    <string name="player_name">Player</string>
+    <string name="player_screen_orientation">Player screen orientation</string>
+    <string name="portrait">Portrait</string>
+    <string name="prefer_app_decoders">Prefer app decoders</string>
+    <string name="prefer_device_decoders">Prefer device decoders</string>
+    <string name="preferred_audio_lang">Preferred audio language</string>
+    <string name="preferred_audio_lang_description">Language of the audio track you want to use by default</string>
+    <string name="preferred_subtitle_lang">Preferred subtitle language</string>
+    <string name="preferred_subtitle_lang_description">Language of the subtitle track you want to use by default</string>
+    <string name="properties">Properties</string>
+    <string name="quick_settings">Quick Settings</string>
+    <string name="remember_brightness_level">Remember brightness level</string>
+    <string name="remember_brightness_level_description">Remember brightness level between playback sessions</string>
+    <string name="remember_selections">Remember selections</string>
+    <string name="remember_selections_description">Remember selections for each file like audio track, subtitle track, etc</string>
+    <string name="rename">Rename</string>
+    <string name="rename_to">Rename to</string>
+    <string name="require_audio_focus">Require audio focus</string>
+    <string name="require_audio_focus_desc">Pause other players while this player is playing videos, and vice versa.</string>
+    <string name="resolution">Resolution</string>
+    <string name="resume">Resume</string>
+    <string name="resume_description">Select whether to resume played videos from the point where you stopped</string>
+    <string name="sample_format">Sample format</string>
+    <string name="sample_rate">Sample rate</string>
+    <string name="sans_serif">Sans Serif</string>
+    <string name="scan">Scan</string>
+    <string name="scanning_storage">Scanning storage…</string>
+    <string name="screen_rotation">Screen Rotation</string>
+    <string name="seconds">%1$s seconds</string>
+    <string name="seek_gesture">Seek gesture</string>
+    <string name="seek_gesture_description">Swipe horizontally to seek forwards or backwards</string>
+    <string name="seek_increment">Seek increment</string>
+    <string name="select_audio_track">Select audio track</string>
+    <string name="select_playback_speed">Select playback speed</string>
+    <string name="select_subtitle_track">Select subtitle track</string>
+    <string name="serif">Serif</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="shortest">Shortest</string>
+    <string name="size">Size</string>
+    <string name="skip_silence">Skip silence</string>
+    <string name="smallest">Smallest</string>
+    <string name="sort">Sort</string>
+    <string name="stop_player_session">Stop player session</string>
+    <string name="stretch">Stretch</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="subtitle_background">Subtitle background</string>
+    <string name="subtitle_background_desc">Enable background to subtitle text</string>
+    <string name="subtitle_desc">Subtitle appearance, playback options</string>
+    <string name="subtitle_font">Subtitle font</string>
+    <string name="subtitle_text_bold">Bold subtitle text</string>
+    <string name="subtitle_text_bold_desc">Use bold text for subtitle</string>
+    <string name="subtitle_text_encoding">Subtitle text encoding</string>
+    <string name="subtitle_text_size">Subtitle text size</string>
+    <string name="subtitle_track">Subtitle Track</string>
+    <string name="support_the_developer_on">Support the developer on %1$s</string>
+    <string name="swipe_gesture">Swipe gesture</string>
+    <string name="swipe_gesture_description">Swipe vertically to adjust the brightness and volume</string>
+    <string name="system_caption_style">System caption style</string>
+    <string name="system_caption_style_desc">Click to open system captioning preferences</string>
+    <string name="system_default">System Default</string>
+    <string name="system_volume_panel">System volume panel</string>
+    <string name="system_volume_panel_desc">Show system volume panel while adjusting volume with headset on</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="title">Title</string>
+    <string name="title_activity_player">Next Player Activity</string>
+    <string name="tree">Tree</string>
+    <string name="unknown_error">An unknown error has occurred</string>
+    <string name="upi">UPI</string>
+    <string name="video">Video</string>
+    <string name="video_orientation">Video Orientation</string>
+    <string name="video_software_decoders">Software video decoders</string>
+    <string name="video_software_decoders_desc">Use application software video decoders (experimental)</string>
+    <string name="video_track">Video Track</string>
+    <string name="video_zoom">Video zoom</string>
+    <string name="videos">Videos</string>
+    <string name="volume_boost">Volume boost</string>
+    <string name="volume_boost_desc">Boost audio volume up to 200%</string>
+    <string name="yes">Yes</string>
+    <string name="z_a">Z-A</string>
+    <string name="zoom_gesture">Zoom gesture</string>
+    <string name="zoom_gesture_description">Pinch to zoom the video</string>
+</resources>

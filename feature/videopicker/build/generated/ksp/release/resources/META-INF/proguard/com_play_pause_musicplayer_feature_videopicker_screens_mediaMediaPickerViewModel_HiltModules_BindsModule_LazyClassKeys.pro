@@ -1,0 +1,3 @@
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.feature.videopicker.screens.mediaFolder.MediaPickerFolderViewModel
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.feature.videopicker.screens.mediaFolder.MediaPickerFolderViewModel
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.feature.videopicker.screens.media.MediaPickerViewModel

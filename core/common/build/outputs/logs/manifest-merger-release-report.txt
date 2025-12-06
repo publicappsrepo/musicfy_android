@@ -1,0 +1,28 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:2:11-69
+queries
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:4:5-10:15
+intent#action:name:android.intent.action.OPEN_DOCUMENT+data:mimeType:*/*
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:5:9-9:18
+action#android.intent.action.OPEN_DOCUMENT
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:6:13-74
+	android:name
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:6:21-71
+data
+ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:8:13-44
+	android:mimeType
+		ADDED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml:8:19-41
+uses-sdk
+INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml
+INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/src/main/AndroidManifest.xml

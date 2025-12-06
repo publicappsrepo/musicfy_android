@@ -1,0 +1,90 @@
+com.play_pause.musicplayer.feature.player-sqlite-framework-2.4.0-0 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/07a6f5937f69959d359ad1b43c7e6b9a/transformed/sqlite-framework-2.4.0/res
+com.play_pause.musicplayer.feature.player-runtime-release-1 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/09f07d24c08c57156e5c3543d4d97583/transformed/runtime-release/res
+com.play_pause.musicplayer.feature.player-foundation-layout-release-2 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/0f10545dca82f26f01de5bdc81115860/transformed/foundation-layout-release/res
+com.play_pause.musicplayer.feature.player-hilt-navigation-1.2.0-3 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/0f94455d54a51b6abcaa37449025bfec/transformed/hilt-navigation-1.2.0/res
+com.play_pause.musicplayer.feature.player-ui-util-release-4 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/16aab208aaacb9890a13403875eeabbd/transformed/ui-util-release/res
+com.play_pause.musicplayer.feature.player-activity-ktx-1.9.3-5 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/198c7f7b09fde8bd8c72da8e51e66686/transformed/activity-ktx-1.9.3/res
+com.play_pause.musicplayer.feature.player-ui-text-release-6 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/1c82d8cdde2bba40f36cacbaa9a0fc21/transformed/ui-text-release/res
+com.play_pause.musicplayer.feature.player-lifecycle-viewmodel-compose-release-7 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/1cb87ae58e12ff30ecdf864c6c4102aa/transformed/lifecycle-viewmodel-compose-release/res
+com.play_pause.musicplayer.feature.player-lifecycle-process-2.8.7-8 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/233a4c045b71d74b55a3b42802257f9e/transformed/lifecycle-process-2.8.7/res
+com.play_pause.musicplayer.feature.player-lifecycle-runtime-release-9 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/2426fb2855c2e062b9302c5598eb7aa2/transformed/lifecycle-runtime-release/res
+com.play_pause.musicplayer.feature.player-ui-graphics-release-10 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/2c9f2a458326edc61e8ef1a4de8ae8d4/transformed/ui-graphics-release/res
+com.play_pause.musicplayer.feature.player-startup-runtime-1.1.1-11 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/2e7c81ec9f4564e88a1a79777e33fb4d/transformed/startup-runtime-1.1.1/res
+com.play_pause.musicplayer.feature.player-fragment-1.5.4-12 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/328d7deb4c610865776162a923dccca6/transformed/fragment-1.5.4/res
+com.play_pause.musicplayer.feature.player-navigation-compose-2.8.5-13 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/335b282f52858211da5ddbbb83fe5313/transformed/navigation-compose-2.8.5/res
+com.play_pause.musicplayer.feature.player-viewpager2-1.0.0-14 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/3694ca4d93e7c329c3b8cf76ece34832/transformed/viewpager2-1.0.0/res
+com.play_pause.musicplayer.feature.player-cardview-1.0.0-15 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/3add5ca344ab8fe44593fed5a83fce30/transformed/cardview-1.0.0/res
+com.play_pause.musicplayer.feature.player-lifecycle-viewmodel-release-16 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/3b8dfbae4fffa3a75fcd2357b7e3ed2b/transformed/lifecycle-viewmodel-release/res
+com.play_pause.musicplayer.feature.player-datastore-release-17 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/3cb7fd1892160c722be3e42e85fa3f56/transformed/datastore-release/res
+com.play_pause.musicplayer.feature.player-annotation-experimental-1.4.1-18 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/40f0e84cb5dfa0cbff4b85efc55722ce/transformed/annotation-experimental-1.4.1/res
+com.play_pause.musicplayer.feature.player-media3-ui-1.5.1-19 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/41a3dbe24bcfadbf382a10f383223c7e/transformed/media3-ui-1.5.1/res
+com.play_pause.musicplayer.feature.player-navigation-common-ktx-2.8.5-20 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/42d5f9a8c693632d6b43af67730f53fa/transformed/navigation-common-ktx-2.8.5/res
+com.play_pause.musicplayer.feature.player-constraintlayout-2.2.1-21 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/477a9e9584360fa913cdd2473f393339/transformed/constraintlayout-2.2.1/res
+com.play_pause.musicplayer.feature.player-lifecycle-livedata-core-2.8.7-22 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/4a8172eaf80162dc6e9e82cd0376e633/transformed/lifecycle-livedata-core-2.8.7/res
+com.play_pause.musicplayer.feature.player-savedstate-ktx-1.2.1-23 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/4e604fdcd859ffbd2acf251b7ca63d2c/transformed/savedstate-ktx-1.2.1/res
+com.play_pause.musicplayer.feature.player-core-runtime-2.2.0-24 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/522da6461b6d2b0473ed08b2fc47efee/transformed/core-runtime-2.2.0/res
+com.play_pause.musicplayer.feature.player-core-viewtree-1.0.0-25 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/54ba13c661789387b27b1d91c2904c9c/transformed/core-viewtree-1.0.0/res
+com.play_pause.musicplayer.feature.player-lifecycle-livedata-core-ktx-2.8.7-26 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/560b896255ce17623d3dcde5edf6f1b5/transformed/lifecycle-livedata-core-ktx-2.8.7/res
+com.play_pause.musicplayer.feature.player-appcompat-1.7.0-27 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/566560d0469e68620297f7517baf8a79/transformed/appcompat-1.7.0/res
+com.play_pause.musicplayer.feature.player-core-ktx-1.16.0-28 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/56faa4d01fdc1697ae091f1de2ade409/transformed/core-ktx-1.16.0/res
+com.play_pause.musicplayer.feature.player-media3-exoplayer-1.5.1-29 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/59b6692c7f9bb845370bf1914a64d477/transformed/media3-exoplayer-1.5.1/res
+com.play_pause.musicplayer.feature.player-hilt-navigation-compose-1.2.0-30 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/5d5935a0105daba3deb781f8fb96340b/transformed/hilt-navigation-compose-1.2.0/res
+com.play_pause.musicplayer.feature.player-room-ktx-2.6.1-31 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/5edf32e06cc6fbe7be876168ecc192c4/transformed/room-ktx-2.6.1/res
+com.play_pause.musicplayer.feature.player-material-1.12.0-32 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/5f468f494347ded304137fd29581af24/transformed/material-1.12.0/res
+com.play_pause.musicplayer.feature.player-tracing-1.2.0-33 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/63ff89cc8f62753522bd000b22d162b4/transformed/tracing-1.2.0/res
+com.play_pause.musicplayer.feature.player-lifecycle-runtime-ktx-release-34 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/672bb525d084784f3c9031f84b5524ba/transformed/lifecycle-runtime-ktx-release/res
+com.play_pause.musicplayer.feature.player-sqlite-2.4.0-35 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/69d1f8b373f0b35495910651b78acfd7/transformed/sqlite-2.4.0/res
+com.play_pause.musicplayer.feature.player-navigation-runtime-ktx-2.8.5-36 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/6b15b8b5c385748f7e3512c863e05b3e/transformed/navigation-runtime-ktx-2.8.5/res
+com.play_pause.musicplayer.feature.player-material-icons-core-release-37 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/6f3231dd015c94864debf01447e34716/transformed/material-icons-core-release/res
+com.play_pause.musicplayer.feature.player-foundation-release-38 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/6fe7a2adc7b3b8427abf36fb151d86ff/transformed/foundation-release/res
+com.play_pause.musicplayer.feature.player-navigation-common-2.8.5-39 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/7ae58df3ac950295cfc1e89a9aa69c36/transformed/navigation-common-2.8.5/res
+com.play_pause.musicplayer.feature.player-material3-release-40 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/7c79a26274a4c79f0e32cf784ed84d21/transformed/material3-release/res
+com.play_pause.musicplayer.feature.player-core-1.16.0-41 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/8372d44ba9ea4cf4188b92f6607f5505/transformed/core-1.16.0/res
+com.play_pause.musicplayer.feature.player-activity-compose-1.9.3-42 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/84a1ae30587cf8cbbfe047e95d779d11/transformed/activity-compose-1.9.3/res
+com.play_pause.musicplayer.feature.player-emoji2-1.3.0-43 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/898eba3d893e4aad1b6f71a3a1b19722/transformed/emoji2-1.3.0/res
+com.play_pause.musicplayer.feature.player-room-runtime-2.6.1-44 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/8c86caffff06225101e16f64c66215dc/transformed/room-runtime-2.6.1/res
+com.play_pause.musicplayer.feature.player-customview-poolingcontainer-1.0.0-45 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/8cc0bbbf1de19aa4df5c17fdd3d0b9c9/transformed/customview-poolingcontainer-1.0.0/res
+com.play_pause.musicplayer.feature.player-lifecycle-livedata-2.8.7-46 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/9310271394bc3005a2acbbd1f8b1086d/transformed/lifecycle-livedata-2.8.7/res
+com.play_pause.musicplayer.feature.player-media-1.7.0-47 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/97916b2e516f2c6189ea41761aa44ae1/transformed/media-1.7.0/res
+com.play_pause.musicplayer.feature.player-appcompat-resources-1.7.0-48 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/9a1045b59d5e42f714b5ea2cd8d2cab9/transformed/appcompat-resources-1.7.0/res
+com.play_pause.musicplayer.feature.player-lifecycle-runtime-compose-release-49 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/a0c0c086703c85cbac424be3454c4f0b/transformed/lifecycle-runtime-compose-release/res
+com.play_pause.musicplayer.feature.player-datastore-core-release-50 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/a6fd1a39938669d919b9d4a913ca0df8/transformed/datastore-core-release/res
+com.play_pause.musicplayer.feature.player-ui-geometry-release-51 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/a7fee3ca2d79917a3b0b7646abccf344/transformed/ui-geometry-release/res
+com.play_pause.musicplayer.feature.player-emoji2-views-helper-1.3.0-52 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/a8cc4624184408eadede3ecb92fe8b89/transformed/emoji2-views-helper-1.3.0/res
+com.play_pause.musicplayer.feature.player-animation-release-53 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/b6dd22ef6d5667eb93a2b9bedc338cb1/transformed/animation-release/res
+com.play_pause.musicplayer.feature.player-activity-1.9.3-54 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/bc895f6fab2a5d63b04b6013dabfd980/transformed/activity-1.9.3/res
+com.play_pause.musicplayer.feature.player-runtime-saveable-release-55 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/bed532bedb1b31b197bb2c3f29a996ba/transformed/runtime-saveable-release/res
+com.play_pause.musicplayer.feature.player-transition-1.5.0-56 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/c4949cbe42fb2a2664226e7c5f36c04a/transformed/transition-1.5.0/res
+com.play_pause.musicplayer.feature.player-media3-session-1.5.1-57 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/c4af1bd8d7351fd2c537cf7fad7ac285/transformed/media3-session-1.5.1/res
+com.play_pause.musicplayer.feature.player-material-icons-extended-release-58 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/c97e6c20f302fad4628c05e5543b3d99/transformed/material-icons-extended-release/res
+com.play_pause.musicplayer.feature.player-profileinstaller-1.4.0-59 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/cf9eafe1335fc2f317a8b5246a06951a/transformed/profileinstaller-1.4.0/res
+com.play_pause.musicplayer.feature.player-material-ripple-release-60 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/d2094a33ccbda83e10c3c04739821dba/transformed/material-ripple-release/res
+com.play_pause.musicplayer.feature.player-savedstate-1.2.1-61 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/d50c0c2cc3ce8a9680b4b8110f9fabc1/transformed/savedstate-1.2.1/res
+com.play_pause.musicplayer.feature.player-graphics-path-1.0.1-62 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/d7a07a603841fe3c10837e08a444285b/transformed/graphics-path-1.0.1/res
+com.play_pause.musicplayer.feature.player-navigation-runtime-2.8.5-63 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/d8286d52f9bb3c981315d24c1eb04523/transformed/navigation-runtime-2.8.5/res
+com.play_pause.musicplayer.feature.player-lifecycle-viewmodel-savedstate-2.8.7-64 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/de32b9642626cb76bf433d6cb10b066f/transformed/lifecycle-viewmodel-savedstate-2.8.7/res
+com.play_pause.musicplayer.feature.player-coordinatorlayout-1.1.0-65 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/e13b2824caed28beb4fe6d119e24e545/transformed/coordinatorlayout-1.1.0/res
+com.play_pause.musicplayer.feature.player-drawerlayout-1.1.1-66 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/e5a20170a2bb91a8a22851a4689919ca/transformed/drawerlayout-1.1.1/res
+com.play_pause.musicplayer.feature.player-ui-unit-release-67 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/e96f5cb5e93bb6261345952758ea0310/transformed/ui-unit-release/res
+com.play_pause.musicplayer.feature.player-animation-core-release-68 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/ec393333c19e4ac2fa7a53b9a7a3a1ce/transformed/animation-core-release/res
+com.play_pause.musicplayer.feature.player-ui-release-69 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/f4a4aa064a9e558846d00cc7678437a0/transformed/ui-release/res
+com.play_pause.musicplayer.feature.player-lifecycle-viewmodel-ktx-2.8.7-70 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/f4c8ac360278d5a63a8e444911167fdc/transformed/lifecycle-viewmodel-ktx-2.8.7/res
+com.play_pause.musicplayer.feature.player-recyclerview-1.3.0-71 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/f53c68c06a766b0f6f568fc0e6c98013/transformed/recyclerview-1.3.0/res
+com.play_pause.musicplayer.feature.player-ui-tooling-preview-release-72 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/f57584eed4a147b6e0ccc8d688a6d86c/transformed/ui-tooling-preview-release/res
+com.play_pause.musicplayer.feature.player-release-73 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/common/build/intermediates/packaged_res/release/packageReleaseResources
+com.play_pause.musicplayer.feature.player-release-74 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/data/build/intermediates/packaged_res/release/packageReleaseResources
+com.play_pause.musicplayer.feature.player-release-75 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/database/build/intermediates/packaged_res/release/packageReleaseResources
+com.play_pause.musicplayer.feature.player-release-76 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/datastore/build/intermediates/packaged_res/release/packageReleaseResources
+com.play_pause.musicplayer.feature.player-release-77 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/domain/build/intermediates/packaged_res/release/packageReleaseResources
+com.play_pause.musicplayer.feature.player-release-78 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media/build/intermediates/packaged_res/release/packageReleaseResources
+com.play_pause.musicplayer.feature.player-release-79 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/packaged_res/release/packageReleaseResources
+com.play_pause.musicplayer.feature.player-release-80 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/packaged_res/release/packageReleaseResources
+com.play_pause.musicplayer.feature.player-release-81 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/ui/build/intermediates/packaged_res/release/packageReleaseResources
+com.play_pause.musicplayer.feature.player-release-82 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/generated/aboutLibraries/release/res
+com.play_pause.musicplayer.feature.player-pngs-83 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/generated/res/pngs/release
+com.play_pause.musicplayer.feature.player-resValues-84 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/generated/res/resValues/release
+com.play_pause.musicplayer.feature.player-mergeReleaseResources-85 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.play_pause.musicplayer.feature.player-mergeReleaseResources-86 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.play_pause.musicplayer.feature.player-release-87 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/intermediates/merged_res/release/mergeReleaseResources
+com.play_pause.musicplayer.feature.player-main-88 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res
+com.play_pause.musicplayer.feature.player-release-89 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/release/res

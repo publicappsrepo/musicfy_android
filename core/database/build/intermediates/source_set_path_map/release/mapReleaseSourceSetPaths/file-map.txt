@@ -1,0 +1,28 @@
+com.play_pause.musicplayer.core.database-sqlite-framework-2.4.0-0 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/07a6f5937f69959d359ad1b43c7e6b9a/transformed/sqlite-framework-2.4.0/res
+com.play_pause.musicplayer.core.database-profileinstaller-1.3.0-1 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/24a12fc51e5456a33cd36f1a3e4069c7/transformed/profileinstaller-1.3.0/res
+com.play_pause.musicplayer.core.database-fragment-1.5.1-2 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/2e374302e9b86e773b932aa28bb100b2/transformed/fragment-1.5.1/res
+com.play_pause.musicplayer.core.database-startup-runtime-1.1.1-3 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/2e7c81ec9f4564e88a1a79777e33fb4d/transformed/startup-runtime-1.1.1/res
+com.play_pause.musicplayer.core.database-activity-1.5.1-4 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/3bedc4041d69627f190b647ed1a48e2d/transformed/activity-1.5.1/res
+com.play_pause.musicplayer.core.database-annotation-experimental-1.4.1-5 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/40f0e84cb5dfa0cbff4b85efc55722ce/transformed/annotation-experimental-1.4.1/res
+com.play_pause.musicplayer.core.database-lifecycle-runtime-2.6.2-6 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/46529ae497764a2d7897aa4074cde9eb/transformed/lifecycle-runtime-2.6.2/res
+com.play_pause.musicplayer.core.database-core-runtime-2.2.0-7 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/522da6461b6d2b0473ed08b2fc47efee/transformed/core-runtime-2.2.0/res
+com.play_pause.musicplayer.core.database-core-viewtree-1.0.0-8 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/54ba13c661789387b27b1d91c2904c9c/transformed/core-viewtree-1.0.0/res
+com.play_pause.musicplayer.core.database-core-ktx-1.16.0-9 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/56faa4d01fdc1697ae091f1de2ade409/transformed/core-ktx-1.16.0/res
+com.play_pause.musicplayer.core.database-room-ktx-2.6.1-10 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/5edf32e06cc6fbe7be876168ecc192c4/transformed/room-ktx-2.6.1/res
+com.play_pause.musicplayer.core.database-tracing-1.2.0-11 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/63ff89cc8f62753522bd000b22d162b4/transformed/tracing-1.2.0/res
+com.play_pause.musicplayer.core.database-sqlite-2.4.0-12 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/69d1f8b373f0b35495910651b78acfd7/transformed/sqlite-2.4.0/res
+com.play_pause.musicplayer.core.database-core-1.16.0-13 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/8372d44ba9ea4cf4188b92f6607f5505/transformed/core-1.16.0/res
+com.play_pause.musicplayer.core.database-room-runtime-2.6.1-14 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/8c86caffff06225101e16f64c66215dc/transformed/room-runtime-2.6.1/res
+com.play_pause.musicplayer.core.database-lifecycle-viewmodel-2.6.2-15 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/bffa87a0264d3e10abaa2a35940d1bb8/transformed/lifecycle-viewmodel-2.6.2/res
+com.play_pause.musicplayer.core.database-lifecycle-viewmodel-savedstate-2.6.2-16 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/cf7d3cf496f97d1b1f6229f71cbfcb1b/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.play_pause.musicplayer.core.database-savedstate-1.2.1-17 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/d50c0c2cc3ce8a9680b4b8110f9fabc1/transformed/savedstate-1.2.1/res
+com.play_pause.musicplayer.core.database-lifecycle-livedata-2.6.2-18 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/d8ad5436089c6c46d78421d46ab898ce/transformed/lifecycle-livedata-2.6.2/res
+com.play_pause.musicplayer.core.database-lifecycle-livedata-core-2.6.2-19 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/fc172e9279190b253b299656a9979caa/transformed/lifecycle-livedata-core-2.6.2/res
+com.play_pause.musicplayer.core.database-release-20 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/database/build/generated/aboutLibraries/release/res
+com.play_pause.musicplayer.core.database-pngs-21 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/database/build/generated/res/pngs/release
+com.play_pause.musicplayer.core.database-resValues-22 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/database/build/generated/res/resValues/release
+com.play_pause.musicplayer.core.database-mergeReleaseResources-23 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/database/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.play_pause.musicplayer.core.database-mergeReleaseResources-24 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/database/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.play_pause.musicplayer.core.database-release-25 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/database/build/intermediates/merged_res/release/mergeReleaseResources
+com.play_pause.musicplayer.core.database-main-26 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/database/src/main/res
+com.play_pause.musicplayer.core.database-release-27 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/database/src/release/res

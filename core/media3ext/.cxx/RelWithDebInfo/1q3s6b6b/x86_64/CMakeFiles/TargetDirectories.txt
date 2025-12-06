@@ -1,0 +1,3 @@
+/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/RelWithDebInfo/1q3s6b6b/x86_64/CMakeFiles/media3ext.dir
+/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/RelWithDebInfo/1q3s6b6b/x86_64/CMakeFiles/edit_cache.dir
+/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/RelWithDebInfo/1q3s6b6b/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.play_pause.musicplayer.feature.settings-release-84:/layout-land/material_clock_period_toggle_land.xml",
+        "source": "com.play_pause.musicplayer.feature.settings-material-1.12.0-31:/layout-land/material_clock_period_toggle_land.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.feature.settings-release-84:/layout-land/material_timepicker.xml",
+        "source": "com.play_pause.musicplayer.feature.settings-material-1.12.0-31:/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.feature.settings-release-84:/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "com.play_pause.musicplayer.feature.settings-material-1.12.0-31:/layout-land/mtrl_picker_header_dialog.xml"
+    }
+]

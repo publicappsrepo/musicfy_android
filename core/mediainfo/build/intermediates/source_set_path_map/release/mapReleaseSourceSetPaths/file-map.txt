@@ -1,0 +1,8 @@
+com.play_pause.musicplayer.core.mediainfo-release-0 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/generated/aboutLibraries/release/res
+com.play_pause.musicplayer.core.mediainfo-pngs-1 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/generated/res/pngs/release
+com.play_pause.musicplayer.core.mediainfo-resValues-2 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/generated/res/resValues/release
+com.play_pause.musicplayer.core.mediainfo-mergeReleaseResources-3 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.play_pause.musicplayer.core.mediainfo-mergeReleaseResources-4 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.play_pause.musicplayer.core.mediainfo-release-5 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/merged_res/release/mergeReleaseResources
+com.play_pause.musicplayer.core.mediainfo-main-6 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/src/main/res
+com.play_pause.musicplayer.core.mediainfo-release-7 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/src/release/res

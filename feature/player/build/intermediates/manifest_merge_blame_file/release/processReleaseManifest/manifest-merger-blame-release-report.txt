@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.play_pause.musicplayer.feature.player" >
+5
+6    <uses-sdk android:minSdkVersion="26" />
+7
+8    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+8-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:5:5-77
+8-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:5:22-74
+9    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+9-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:6:5-92
+9-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:6:22-89
+10
+11    <application android:usesCleartextTraffic="true" >
+11-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:8:5-26:19
+11-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:9:9-44
+12        <activity
+12-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:10:9-16:49
+13            android:name="com.play_pause.musicplayer.feature.player.PlayerActivity"
+13-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:11:13-43
+14            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout|uiMode|keyboard|keyboardHidden|navigation"
+14-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:12:13-133
+15            android:exported="true"
+15-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:13:13-36
+16            android:launchMode="singleTask"
+16-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:14:13-44
+17            android:supportsPictureInPicture="true"
+17-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:15:13-52
+18            android:theme="@style/NextPlayer" />
+18-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:16:13-46
+19
+20        <service
+20-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:18:9-25:19
+21            android:name="com.play_pause.musicplayer.feature.player.service.PlayerService"
+21-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:19:13-50
+22            android:exported="false"
+22-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:20:13-37
+23            android:foregroundServiceType="mediaPlayback" >
+23-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:21:13-58
+24            <intent-filter>
+24-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:22:13-24:29
+25                <action android:name="androidx.media3.session.MediaSessionService" />
+25-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:23:17-86
+25-->/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/AndroidManifest.xml:23:25-83
+26            </intent-filter>
+27        </service>
+28    </application>
+29
+30</manifest>

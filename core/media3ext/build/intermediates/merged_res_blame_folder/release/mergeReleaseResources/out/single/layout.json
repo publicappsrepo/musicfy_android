@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.play_pause.musicplayer.core.media3ext-release-8:/layout/notification_template_part_time.xml",
+        "source": "com.play_pause.musicplayer.core.media3ext-core-1.8.0-0:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.core.media3ext-release-8:/layout/custom_dialog.xml",
+        "source": "com.play_pause.musicplayer.core.media3ext-core-1.8.0-0:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.core.media3ext-release-8:/layout/notification_template_part_chronometer.xml",
+        "source": "com.play_pause.musicplayer.core.media3ext-core-1.8.0-0:/layout/notification_template_part_chronometer.xml"
+    }
+]

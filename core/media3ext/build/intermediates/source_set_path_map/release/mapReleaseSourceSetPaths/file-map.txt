@@ -1,0 +1,12 @@
+com.play_pause.musicplayer.core.media3ext-core-1.8.0-0 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/06c257263317c5ea00ddbb2038d17463/transformed/core-1.8.0/res
+com.play_pause.musicplayer.core.media3ext-annotation-experimental-1.3.1-1 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/4640bca5f38c4ce6449d4f158c6c26c1/transformed/annotation-experimental-1.3.1/res
+com.play_pause.musicplayer.core.media3ext-media3-exoplayer-1.5.1-2 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/59b6692c7f9bb845370bf1914a64d477/transformed/media3-exoplayer-1.5.1/res
+com.play_pause.musicplayer.core.media3ext-lifecycle-runtime-2.3.1-3 /Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/c0de77c3d52d4c8e1a2ccce881b7154c/transformed/lifecycle-runtime-2.3.1/res
+com.play_pause.musicplayer.core.media3ext-release-4 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/generated/aboutLibraries/release/res
+com.play_pause.musicplayer.core.media3ext-pngs-5 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/generated/res/pngs/release
+com.play_pause.musicplayer.core.media3ext-resValues-6 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/generated/res/resValues/release
+com.play_pause.musicplayer.core.media3ext-mergeReleaseResources-7 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.play_pause.musicplayer.core.media3ext-mergeReleaseResources-8 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.play_pause.musicplayer.core.media3ext-release-9 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/merged_res/release/mergeReleaseResources
+com.play_pause.musicplayer.core.media3ext-main-10 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/res
+com.play_pause.musicplayer.core.media3ext-release-11 /Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/release/res

@@ -1,0 +1,6 @@
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.settings.screens.appearance.AppearancePreferencesViewModel
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.settings.screens.appearance.AppearancePreferencesViewModel
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.settings.screens.decoder.DecoderPreferencesViewModel
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.settings.screens.decoder.DecoderPreferencesViewModel
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.settings.screens.audio.AudioPreferencesViewModel
+-keep,allowobfuscation,allowshrinking class com.play_pause.musicplayer.settings.screens.audio.AudioPreferencesViewModel

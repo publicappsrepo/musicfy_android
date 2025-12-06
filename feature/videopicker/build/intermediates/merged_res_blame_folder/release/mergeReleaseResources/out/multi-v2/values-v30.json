@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.play_pause.musicplayer.feature.videopicker-mergeReleaseResources-82:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/7c79a26274a4c79f0e32cf784ed84d21/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.play_pause.musicplayer.feature.videopicker-release-84:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/7c79a26274a4c79f0e32cf784ed84d21/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

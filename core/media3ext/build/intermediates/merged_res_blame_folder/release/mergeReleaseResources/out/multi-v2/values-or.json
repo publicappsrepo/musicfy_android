@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.play_pause.musicplayer.core.media3ext-release-8:/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/06c257263317c5ea00ddbb2038d17463/transformed/core-1.8.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.play_pause.musicplayer.core.media3ext-mergeReleaseResources-6:/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/06c257263317c5ea00ddbb2038d17463/transformed/core-1.8.0/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

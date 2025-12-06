@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.play_pause.musicplayer.core.media-mergeReleaseResources-25:/values-gu/values-gu.xml",
+            "map": [
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/8372d44ba9ea4cf4188b92f6607f5505/transformed/core-1.16.0/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,353,455,557,655,777",
+                        "endColumns": "97,102,96,101,101,97,121,100",
+                        "endOffsets": "148,251,348,450,552,650,772,873"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,18",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,353,455,557,655,1473",
+                        "endColumns": "97,102,96,101,101,97,121,100",
+                        "endOffsets": "148,251,348,450,552,650,772,1569"
+                    }
+                },
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/59b6692c7f9bb845370bf1914a64d477/transformed/media3-exoplayer-1.5.1/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,190,266,334,409,477,576,672",
+                        "endColumns": "69,64,75,67,74,67,98,95,78",
+                        "endOffsets": "120,185,261,329,404,472,571,667,746"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "777,847,912,988,1056,1131,1199,1298,1394",
+                        "endColumns": "69,64,75,67,74,67,98,95,78",
+                        "endOffsets": "842,907,983,1051,1126,1194,1293,1389,1468"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.play_pause.musicplayer.core.media-release-27:/values-gu/values-gu.xml",
+            "map": [
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/8372d44ba9ea4cf4188b92f6607f5505/transformed/core-1.16.0/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,353,455,557,655,777",
+                        "endColumns": "97,102,96,101,101,97,121,100",
+                        "endOffsets": "148,251,348,450,552,650,772,873"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,18",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,353,455,557,655,1473",
+                        "endColumns": "97,102,96,101,101,97,121,100",
+                        "endOffsets": "148,251,348,450,552,650,772,1569"
+                    }
+                },
+                {
+                    "source": "/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/59b6692c7f9bb845370bf1914a64d477/transformed/media3-exoplayer-1.5.1/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,190,266,334,409,477,576,672",
+                        "endColumns": "69,64,75,67,74,67,98,95,78",
+                        "endOffsets": "120,185,261,329,404,472,571,667,746"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "777,847,912,988,1056,1131,1199,1298,1394",
+                        "endColumns": "69,64,75,67,74,67,98,95,78",
+                        "endOffsets": "842,907,983,1051,1126,1194,1293,1389,1468"
+                    }
+                }
+            ]
+        }
+    ]
+}

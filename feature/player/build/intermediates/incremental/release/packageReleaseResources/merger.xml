@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res"><file name="ic_loop_all" path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/drawable/ic_loop_all.xml" qualifiers="" type="drawable"/><file name="ic_loop_off" path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/drawable/ic_loop_off.xml" qualifiers="" type="drawable"/><file name="ic_app" path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/drawable/ic_app.webp" qualifiers="" type="drawable"/><file name="ic_loop_one" path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/drawable/ic_loop_one.xml" qualifiers="" type="drawable"/><file name="activity_player" path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/layout/activity_player.xml" qualifiers="" type="layout"/><file name="playback_speed" path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/layout/playback_speed.xml" qualifiers="" type="layout"/><file name="exo_player_view" path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/layout/exo_player_view.xml" qualifiers="" type="layout"/><file name="exo_player_control_view" path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/layout/exo_player_control_view.xml" qualifiers="" type="layout"/><file path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/values-night/themes.xml" qualifiers="night-v8"><style name="NextPlayer" parent="Theme.Material3.Dark.NoActionBar">
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:colorBackground">@android:color/black</item>
+
+        <item name="alertDialogTheme">@style/CustomAlertDialog</item>
+        <item name="dialogCornerRadius">28dp</item>
+
+        <item name="colorPrimary">@color/md_theme_dark_primary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_dark_primaryContainer</item>
+        <item name="colorOnPrimary">@color/md_theme_dark_onPrimary</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_dark_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/md_theme_dark_secondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_dark_secondaryContainer</item>
+        <item name="colorOnSecondary">@color/md_theme_dark_onSecondary</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_dark_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/md_theme_dark_tertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_dark_tertiaryContainer</item>
+        <item name="colorOnTertiary">@color/md_theme_dark_onTertiary</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_dark_onTertiaryContainer</item>
+        <item name="colorError">@color/md_theme_dark_error</item>
+        <item name="colorErrorContainer">@color/md_theme_dark_errorContainer</item>
+        <item name="colorOnError">@color/md_theme_dark_onError</item>
+        <item name="colorOnErrorContainer">@color/md_theme_dark_onErrorContainer</item>
+        <item name="colorOutline">@color/md_theme_dark_outline</item>
+        <item name="colorOnBackground">@color/md_theme_dark_onBackground</item>
+        <item name="colorSurface">@color/md_theme_dark_surface</item>
+        <item name="colorOnSurface">@color/md_theme_dark_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_dark_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_dark_onSurfaceVariant</item>
+        <item name="colorSurfaceInverse">@color/md_theme_dark_inverseSurface</item>
+        <item name="colorOnSurfaceInverse">@color/md_theme_dark_inverseOnSurface</item>
+        <item name="colorPrimaryInverse">@color/md_theme_dark_inversePrimary</item>
+    </style><style name="CustomAlertDialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="android:background">@color/md_theme_dark_surface</item>
+    </style></file><file path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/values/themes.xml" qualifiers=""><style name="NextPlayer" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:colorBackground">@android:color/black</item>
+
+        <item name="alertDialogTheme">@style/CustomAlertDialog</item>
+        <item name="dialogCornerRadius">28dp</item>
+
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_light_secondaryContainer</item>
+        <item name="colorOnSecondary">@color/md_theme_light_onSecondary</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_light_onSecondaryContainer</item>
+        <item name="colorTertiary">@color/md_theme_light_tertiary</item>
+        <item name="colorTertiaryContainer">@color/md_theme_light_tertiaryContainer</item>
+        <item name="colorOnTertiary">@color/md_theme_light_onTertiary</item>
+        <item name="colorOnTertiaryContainer">@color/md_theme_light_onTertiaryContainer</item>
+        <item name="colorError">@color/md_theme_light_error</item>
+        <item name="colorErrorContainer">@color/md_theme_light_errorContainer</item>
+        <item name="colorOnError">@color/md_theme_light_onError</item>
+        <item name="colorOnErrorContainer">@color/md_theme_light_onErrorContainer</item>
+        <item name="colorOutline">@color/md_theme_light_outline</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+        <item name="colorOnSurface">@color/md_theme_light_onSurface</item>
+        <item name="colorSurfaceVariant">@color/md_theme_light_surfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/md_theme_light_onSurfaceVariant</item>
+        <item name="colorSurfaceInverse">@color/md_theme_light_inverseSurface</item>
+        <item name="colorOnSurfaceInverse">@color/md_theme_light_inverseOnSurface</item>
+        <item name="colorPrimaryInverse">@color/md_theme_light_inversePrimary</item>
+    </style><style name="CustomAlertDialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+        <item name="android:background">@color/md_theme_light_surface</item>
+    </style></file><file path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/values/strings.xml" qualifiers=""><string name="playing_notification_name">Playing notification</string><string name="playing_notification_description">The playing notification provides actions for play/pause etc.</string></file><file path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/main/res/values/drawables.xml" qualifiers=""><drawable name="exo_styled_controls_play" ns1:ignore="PrivateResource">@drawable/ic_play</drawable><drawable name="exo_styled_controls_pause" ns1:ignore="PrivateResource">@drawable/ic_pause</drawable><drawable name="exo_styled_controls_next" ns1:ignore="PrivateResource">@drawable/ic_skip_next</drawable><drawable name="exo_styled_controls_previous" ns1:ignore="PrivateResource">@drawable/ic_skip_prev</drawable></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="release" generated-set="release$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/src/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/generated/res/resValues/release"/><source path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/generated/aboutLibraries/release/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/generated/res/resValues/release"/><source path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/generated/aboutLibraries/release/res"><file name="aboutlibraries" path="/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/feature/player/build/generated/aboutLibraries/release/res/raw/aboutlibraries.json" qualifiers="" type="raw"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="legacy_api_res$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="legacy_api_res" generated-set="legacy_api_res$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>

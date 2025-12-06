@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.play_pause.musicplayer.feature.videopicker-release-84:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "com.play_pause.musicplayer.feature.videopicker-material-1.12.0-32:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.feature.videopicker-release-84:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "com.play_pause.musicplayer.feature.videopicker-material-1.12.0-32:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

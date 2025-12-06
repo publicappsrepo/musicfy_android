@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="com.play_pause.musicplayer.core.data"
+    minSdkVersion="26"
+    targetSdkVersion="26"
+    mergedManifest="build/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    proguardFiles="build/intermediates/default_proguard_files/global/proguard-android.txt-8.7.3"
+    partialResultsDir="build/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+    desugaredMethodsFiles="/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/e4e0c775b398008339e4e6039cfd8980/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="build/intermediates/javac/release/compileReleaseJavaWithJavac/classes:build/tmp/kotlin-classes/release:build/generated/ksp/release/resources:build/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="com.play_pause.musicplayer.core.data"
+      generatedSourceFolders="build/generated/ksp/release/java:build/generated/ksp/release/kotlin:build/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="build/generated/aboutLibraries/release/res:build/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/akshayvadchhakgmail.com/.gradle/caches/8.11.1/transforms/e4e0c775b398008339e4e6039cfd8980/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

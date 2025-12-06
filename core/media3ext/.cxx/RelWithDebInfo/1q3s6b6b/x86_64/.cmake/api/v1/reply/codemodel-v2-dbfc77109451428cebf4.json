@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "media3ext",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "media3ext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-media3ext-RelWithDebInfo-94ce9dbabd76fa66236e.json",
+					"name" : "media3ext",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/RelWithDebInfo/1q3s6b6b/x86_64",
+		"source" : "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

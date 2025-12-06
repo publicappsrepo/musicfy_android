@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/.cxx/RelWithDebInfo/455i1w40/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/.cxx/RelWithDebInfo/455i1w40/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "mediainfo::@6890427a1f51a3e7e1df": {
+      "artifactName": "mediainfo",
+      "abi": "arm64-v8a",
+      "output": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/cxx/RelWithDebInfo/455i1w40/obj/arm64-v8a/libmediainfo.so",
+      "runtimeFiles": []
+    }
+  }
+}

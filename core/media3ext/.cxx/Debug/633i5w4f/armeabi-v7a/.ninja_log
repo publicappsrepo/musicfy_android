@@ -1,0 +1,53 @@
+# ninja log v5
+14	479	1764499650991340503	CMakeFiles/media3ext.dir/ffcommon.cpp.o	1a5dc4c305de9dd9
+20	710	1764499651235981724	CMakeFiles/media3ext.dir/ffvideo.cpp.o	f196134f1ccc068a
+0	24	0	clean	c363f18024720f27
+17	792	1764499651319615134	CMakeFiles/media3ext.dir/ffaudio.cpp.o	4ce7fd382e0a6135
+792	945	1764499651412954712	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/Debug/633i5w4f/obj/armeabi-v7a/libmedia3ext.so	8ffc9114a0c688a4
+9	409	1764499650926105416	CMakeFiles/media3ext.dir/ffmain.cpp.o	a62e11b6abaf4f8
+0	16	0	clean	c363f18024720f27
+5	440	1764499710704939317	CMakeFiles/media3ext.dir/ffcommon.cpp.o	1a5dc4c305de9dd9
+2	506	1764499710793882068	CMakeFiles/media3ext.dir/ffmain.cpp.o	a62e11b6abaf4f8
+8	1102	1764499711369311645	CMakeFiles/media3ext.dir/ffaudio.cpp.o	4ce7fd382e0a6135
+13	1156	1764499711443824925	CMakeFiles/media3ext.dir/ffvideo.cpp.o	f196134f1ccc068a
+1156	1305	1764499711581004475	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/Debug/633i5w4f/obj/armeabi-v7a/libmedia3ext.so	8ffc9114a0c688a4
+0	22	0	clean	c363f18024720f27
+2	554	1764499789558364878	CMakeFiles/media3ext.dir/ffmain.cpp.o	a62e11b6abaf4f8
+3	582	1764499789584872242	CMakeFiles/media3ext.dir/ffcommon.cpp.o	1a5dc4c305de9dd9
+5	869	1764499789860374522	CMakeFiles/media3ext.dir/ffaudio.cpp.o	4ce7fd382e0a6135
+7	1028	1764499790001488475	CMakeFiles/media3ext.dir/ffvideo.cpp.o	f196134f1ccc068a
+1028	1297	1764499790233948764	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/Debug/633i5w4f/obj/armeabi-v7a/libmedia3ext.so	8ffc9114a0c688a4
+0	18	0	clean	c363f18024720f27
+11	551	1764999766768524476	CMakeFiles/media3ext.dir/ffcommon.cpp.o	1a5dc4c305de9dd9
+11	655	1764999766903864508	CMakeFiles/media3ext.dir/ffmain.cpp.o	a62e11b6abaf4f8
+12	987	1764999767238662676	CMakeFiles/media3ext.dir/ffaudio.cpp.o	4ce7fd382e0a6135
+14	1175	1764999767426796114	CMakeFiles/media3ext.dir/ffvideo.cpp.o	f196134f1ccc068a
+1175	1323	1764999767558241192	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/Debug/633i5w4f/obj/armeabi-v7a/libmedia3ext.so	8ffc9114a0c688a4
+0	25	0	clean	c363f18024720f27
+2	420	1764999881922327109	CMakeFiles/media3ext.dir/ffcommon.cpp.o	1a5dc4c305de9dd9
+1	464	1764999881969243812	CMakeFiles/media3ext.dir/ffmain.cpp.o	a62e11b6abaf4f8
+5	862	1764999882367556000	CMakeFiles/media3ext.dir/ffaudio.cpp.o	4ce7fd382e0a6135
+13	882	1764999882387947855	CMakeFiles/media3ext.dir/ffvideo.cpp.o	f196134f1ccc068a
+882	1024	1764999882520558807	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/Debug/633i5w4f/obj/armeabi-v7a/libmedia3ext.so	8ffc9114a0c688a4
+0	31	0	clean	c363f18024720f27
+3	404	1764999909899240833	CMakeFiles/media3ext.dir/ffmain.cpp.o	a62e11b6abaf4f8
+4	423	1764999909917643523	CMakeFiles/media3ext.dir/ffcommon.cpp.o	1a5dc4c305de9dd9
+5	927	1764999910383404311	CMakeFiles/media3ext.dir/ffaudio.cpp.o	4ce7fd382e0a6135
+9	927	1764999910324688744	CMakeFiles/media3ext.dir/ffvideo.cpp.o	f196134f1ccc068a
+927	1065	1764999910521149716	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/Debug/633i5w4f/obj/armeabi-v7a/libmedia3ext.so	8ffc9114a0c688a4
+0	33	0	clean	c363f18024720f27
+1	709	1765000017846528662	CMakeFiles/media3ext.dir/ffmain.cpp.o	a62e11b6abaf4f8
+2	746	1765000017842019542	CMakeFiles/media3ext.dir/ffcommon.cpp.o	1a5dc4c305de9dd9
+3	828	1765000018006530462	CMakeFiles/media3ext.dir/ffaudio.cpp.o	4ce7fd382e0a6135
+4	1127	1765000018302442793	CMakeFiles/media3ext.dir/ffvideo.cpp.o	f196134f1ccc068a
+1128	1363	1765000018507090799	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/Debug/633i5w4f/obj/armeabi-v7a/libmedia3ext.so	8ffc9114a0c688a4
+0	35	0	clean	c363f18024720f27
+4	688	1765001102516794812	CMakeFiles/media3ext.dir/ffmain.cpp.o	a62e11b6abaf4f8
+5	689	1765001102515987673	CMakeFiles/media3ext.dir/ffcommon.cpp.o	1a5dc4c305de9dd9
+6	1277	1765001102849780072	CMakeFiles/media3ext.dir/ffaudio.cpp.o	4ce7fd382e0a6135
+10	1586	1765001103375590440	CMakeFiles/media3ext.dir/ffvideo.cpp.o	f196134f1ccc068a
+1586	2290	1765001103999561830	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/Debug/633i5w4f/obj/armeabi-v7a/libmedia3ext.so	8ffc9114a0c688a4
+0	19	0	clean	c363f18024720f27
+0	17	0	clean	c363f18024720f27
+1	27	0	clean	c363f18024720f27
+0	17	0	clean	c363f18024720f27

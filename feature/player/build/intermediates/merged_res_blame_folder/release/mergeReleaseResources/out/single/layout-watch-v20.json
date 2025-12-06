@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.play_pause.musicplayer.feature.player-release-86:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.play_pause.musicplayer.feature.player-appcompat-1.7.0-27:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.feature.player-release-86:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.play_pause.musicplayer.feature.player-appcompat-1.7.0-27:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

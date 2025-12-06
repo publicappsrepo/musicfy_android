@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/Debug/633i5w4f/x86",
+  "command": "/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --sysroot=/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmedia3ext_EXPORTS -I\"/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/../../../../ffmpeg/output/include/x86\" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/media3ext.dir/ffmain.cpp.o -c \"/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/ffmain.cpp\"",
+  "file": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/ffmain.cpp"
+},
+{
+  "directory": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/Debug/633i5w4f/x86",
+  "command": "/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --sysroot=/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmedia3ext_EXPORTS -I\"/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/../../../../ffmpeg/output/include/x86\" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/media3ext.dir/ffcommon.cpp.o -c \"/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/ffcommon.cpp\"",
+  "file": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/ffcommon.cpp"
+},
+{
+  "directory": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/Debug/633i5w4f/x86",
+  "command": "/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --sysroot=/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmedia3ext_EXPORTS -I\"/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/../../../../ffmpeg/output/include/x86\" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/media3ext.dir/ffaudio.cpp.o -c \"/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/ffaudio.cpp\"",
+  "file": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/ffaudio.cpp"
+},
+{
+  "directory": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/Debug/633i5w4f/x86",
+  "command": "/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --sysroot=/Users/akshayvadchhakgmail.com/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmedia3ext_EXPORTS -I\"/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/../../../../ffmpeg/output/include/x86\" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/media3ext.dir/ffvideo.cpp.o -c \"/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/ffvideo.cpp\"",
+  "file": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/ffvideo.cpp"
+}
+]

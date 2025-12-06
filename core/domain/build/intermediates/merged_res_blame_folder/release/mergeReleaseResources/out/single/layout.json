@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.play_pause.musicplayer.core.domain-release-31:/layout/notification_template_part_time.xml",
+        "source": "com.play_pause.musicplayer.core.domain-core-1.16.0-15:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.core.domain-release-31:/layout/custom_dialog.xml",
+        "source": "com.play_pause.musicplayer.core.domain-core-1.16.0-15:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.core.domain-release-31:/layout/notification_template_part_chronometer.xml",
+        "source": "com.play_pause.musicplayer.core.domain-core-1.16.0-15:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.core.domain-release-31:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.play_pause.musicplayer.core.domain-core-1.16.0-15:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.play_pause.musicplayer.core.domain-release-31:/layout/ime_base_split_test_activity.xml",
+        "source": "com.play_pause.musicplayer.core.domain-core-1.16.0-15:/layout/ime_base_split_test_activity.xml"
+    }
+]

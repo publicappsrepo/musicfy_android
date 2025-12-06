@@ -1,0 +1,4 @@
+/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/.cxx/RelWithDebInfo/455i1w40/x86" \
+  mediainfo

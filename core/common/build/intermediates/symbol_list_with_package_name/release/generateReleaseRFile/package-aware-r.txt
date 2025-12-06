@@ -1,0 +1,2 @@
+com.play_pause.musicplayer.core.common
+raw aboutlibraries

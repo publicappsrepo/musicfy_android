@@ -1,0 +1,3 @@
+com.play_pause.musicplayer.feature.settings
+drawable ic_info_24dp
+raw aboutlibraries

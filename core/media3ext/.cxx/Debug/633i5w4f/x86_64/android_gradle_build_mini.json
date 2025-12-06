@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/Debug/633i5w4f/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/akshayvadchhakgmail.com/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/.cxx/Debug/633i5w4f/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "media3ext::@6890427a1f51a3e7e1df": {
+      "artifactName": "media3ext",
+      "abi": "x86_64",
+      "output": "/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/media3ext/build/intermediates/cxx/Debug/633i5w4f/obj/x86_64/libmedia3ext.so",
+      "runtimeFiles": []
+    }
+  }
+}

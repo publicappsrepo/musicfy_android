@@ -1,0 +1,35 @@
+# ninja log v5
+0	16	0	clean	c363f18024720f27
+8	516	1764420152098099878	CMakeFiles/mediainfo.dir/frame_extractor.cpp.o	f80fb504ae1ce433
+4	477	1764420152053960715	CMakeFiles/mediainfo.dir/mediainfo.cpp.o	56c42051ad3edb47
+2	463	1764420152042923550	CMakeFiles/mediainfo.dir/frame_loader_context.cpp.o	c829e7552172d97e
+7	315	1764420151898428754	CMakeFiles/mediainfo.dir/utils.cpp.o	12dbf108f72f555e
+516	767	1764420152344902844	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/cxx/RelWithDebInfo/455i1w40/obj/x86_64/libmediainfo.so	a93cfc82675b7ad1
+3	319	1764420151903756812	CMakeFiles/mediainfo.dir/main.cpp.o	8fb1075cb8f9b4af
+4	357	1765001230583195392	CMakeFiles/mediainfo.dir/main.cpp.o	8fb1075cb8f9b4af
+5	359	1765001230597688840	CMakeFiles/mediainfo.dir/utils.cpp.o	12dbf108f72f555e
+3	695	1765001230933358713	CMakeFiles/mediainfo.dir/frame_loader_context.cpp.o	c829e7552172d97e
+5	749	1765001230987246323	CMakeFiles/mediainfo.dir/frame_extractor.cpp.o	f80fb504ae1ce433
+5	766	1765001231003334710	CMakeFiles/mediainfo.dir/mediainfo.cpp.o	56c42051ad3edb47
+766	1018	1765001231253675668	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/cxx/RelWithDebInfo/455i1w40/obj/x86_64/libmediainfo.so	a93cfc82675b7ad1
+0	27	0	clean	c363f18024720f27
+6	1084	1765001515809942170	CMakeFiles/mediainfo.dir/main.cpp.o	8fb1075cb8f9b4af
+10	1097	1765001515828923137	CMakeFiles/mediainfo.dir/utils.cpp.o	12dbf108f72f555e
+3	1220	1765001515953605256	CMakeFiles/mediainfo.dir/frame_loader_context.cpp.o	c829e7552172d97e
+8	1319	1765001516053208032	CMakeFiles/mediainfo.dir/mediainfo.cpp.o	56c42051ad3edb47
+12	1361	1765001516094418886	CMakeFiles/mediainfo.dir/frame_extractor.cpp.o	f80fb504ae1ce433
+1361	1636	1765001516366057259	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/cxx/RelWithDebInfo/455i1w40/obj/x86_64/libmediainfo.so	a93cfc82675b7ad1
+0	67	0	clean	c363f18024720f27
+3	998	1765001788659128042	CMakeFiles/mediainfo.dir/main.cpp.o	8fb1075cb8f9b4af
+4	999	1765001788661970247	CMakeFiles/mediainfo.dir/utils.cpp.o	12dbf108f72f555e
+2	1083	1765001788745384469	CMakeFiles/mediainfo.dir/frame_loader_context.cpp.o	c829e7552172d97e
+3	1204	1765001788867051379	CMakeFiles/mediainfo.dir/mediainfo.cpp.o	56c42051ad3edb47
+5	1214	1765001788877258394	CMakeFiles/mediainfo.dir/frame_extractor.cpp.o	f80fb504ae1ce433
+1214	1452	1765001789114400172	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/cxx/RelWithDebInfo/455i1w40/obj/x86_64/libmediainfo.so	a93cfc82675b7ad1
+0	43	0	clean	c363f18024720f27
+4	272	1765017589471672447	CMakeFiles/mediainfo.dir/main.cpp.o	8fb1075cb8f9b4af
+6	282	1765017589489184201	CMakeFiles/mediainfo.dir/utils.cpp.o	12dbf108f72f555e
+4	655	1765017589829455867	CMakeFiles/mediainfo.dir/frame_loader_context.cpp.o	c829e7552172d97e
+9	770	1765017589975417967	CMakeFiles/mediainfo.dir/frame_extractor.cpp.o	f80fb504ae1ce433
+5	906	1765017590108215315	CMakeFiles/mediainfo.dir/mediainfo.cpp.o	56c42051ad3edb47
+906	1102	1765017590307489252	/Users/akshayvadchhakgmail.com/Desktop/Safe Project/MusicPlayer/core/mediainfo/build/intermediates/cxx/RelWithDebInfo/455i1w40/obj/x86_64/libmediainfo.so	a93cfc82675b7ad1

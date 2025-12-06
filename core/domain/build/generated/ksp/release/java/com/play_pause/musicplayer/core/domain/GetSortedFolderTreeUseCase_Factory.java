@@ -1,0 +1,68 @@
+package com.play_pause.musicplayer.core.domain;
+
+import com.play_pause.musicplayer.core.data.repository.MediaRepository;
+import com.play_pause.musicplayer.core.data.repository.PreferencesRepository;
+import dagger.internal.DaggerGenerated;
+import dagger.internal.Factory;
+import dagger.internal.Provider;
+import dagger.internal.Providers;
+import dagger.internal.QualifierMetadata;
+import dagger.internal.ScopeMetadata;
+import javax.annotation.processing.Generated;
+import kotlinx.coroutines.CoroutineDispatcher;
+
+@ScopeMetadata
+@QualifierMetadata("com.play_pause.musicplayer.core.common.Dispatcher")
+@DaggerGenerated
+@Generated(
+    value = "dagger.internal.codegen.ComponentProcessor",
+    comments = "https://dagger.dev"
+)
+@SuppressWarnings({
+    "unchecked",
+    "rawtypes",
+    "KotlinInternal",
+    "KotlinInternalInJava",
+    "cast",
+    "deprecation",
+    "nullness:initialization.field.uninitialized"
+})
+public final class GetSortedFolderTreeUseCase_Factory implements Factory<GetSortedFolderTreeUseCase> {
+  private final Provider<MediaRepository> mediaRepositoryProvider;
+
+  private final Provider<PreferencesRepository> preferencesRepositoryProvider;
+
+  private final Provider<CoroutineDispatcher> defaultDispatcherProvider;
+
+  public GetSortedFolderTreeUseCase_Factory(Provider<MediaRepository> mediaRepositoryProvider,
+      Provider<PreferencesRepository> preferencesRepositoryProvider,
+      Provider<CoroutineDispatcher> defaultDispatcherProvider) {
+    this.mediaRepositoryProvider = mediaRepositoryProvider;
+    this.preferencesRepositoryProvider = preferencesRepositoryProvider;
+    this.defaultDispatcherProvider = defaultDispatcherProvider;
+  }
+
+  @Override
+  public GetSortedFolderTreeUseCase get() {
+    return newInstance(mediaRepositoryProvider.get(), preferencesRepositoryProvider.get(), defaultDispatcherProvider.get());
+  }
+
+  public static GetSortedFolderTreeUseCase_Factory create(
+      javax.inject.Provider<MediaRepository> mediaRepositoryProvider,
+      javax.inject.Provider<PreferencesRepository> preferencesRepositoryProvider,
+      javax.inject.Provider<CoroutineDispatcher> defaultDispatcherProvider) {
+    return new GetSortedFolderTreeUseCase_Factory(Providers.asDaggerProvider(mediaRepositoryProvider), Providers.asDaggerProvider(preferencesRepositoryProvider), Providers.asDaggerProvider(defaultDispatcherProvider));
+  }
+
+  public static GetSortedFolderTreeUseCase_Factory create(
+      Provider<MediaRepository> mediaRepositoryProvider,
+      Provider<PreferencesRepository> preferencesRepositoryProvider,
+      Provider<CoroutineDispatcher> defaultDispatcherProvider) {
+    return new GetSortedFolderTreeUseCase_Factory(mediaRepositoryProvider, preferencesRepositoryProvider, defaultDispatcherProvider);
+  }
+
+  public static GetSortedFolderTreeUseCase newInstance(MediaRepository mediaRepository,
+      PreferencesRepository preferencesRepository, CoroutineDispatcher defaultDispatcher) {
+    return new GetSortedFolderTreeUseCase(mediaRepository, preferencesRepository, defaultDispatcher);
+  }
+}
