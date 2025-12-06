@@ -3,7 +3,7 @@ Musicfy - GPL v3 Licensed
 
 # Musicfy
 
-Save and view WhatsApp statuses on your Android device.
+Listen Offline Music on your Android device.
 
 ## License
 
@@ -14,7 +14,7 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 ## Download
 
 - **Google Play Store:** [Musicfy]
-- ([https://play.google.com/store/apps/details?id=com.appsease.status.saver](https://play.google.com/store/apps/details?id=com.play_pause.musicplayer&hl=en_IN))
+- https://play.google.com/store/apps/details?id=com.play_pause.musicplayer
 - **Source Code:** [GitHub Repository](https://github.com/publicappsrepo/musicfy_android)
 
 ## Features
