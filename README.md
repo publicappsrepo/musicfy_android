@@ -13,7 +13,8 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 
 ## Download
 
-- **Google Play Store:** [Status Saver]([https://play.google.com/store/apps/details?id=com.appsease.status.saver](https://play.google.com/store/apps/details?id=com.play_pause.musicplayer&hl=en_IN))
+- **Google Play Store:** [Musicfy]
+- ([https://play.google.com/store/apps/details?id=com.appsease.status.saver](https://play.google.com/store/apps/details?id=com.play_pause.musicplayer&hl=en_IN))
 - **Source Code:** [GitHub Repository](https://github.com/publicappsrepo/musicfy_android)
 
 ## Features
